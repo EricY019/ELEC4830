@@ -1,4 +1,4 @@
-# What does the project do?
+# Project description
 Classify the rat's lever-press state (press/rest/nan) from his neural firing information (spike).
 
 # How to run my code?
@@ -23,7 +23,7 @@ Training, please type in >>python main.py
 Testing, please type in >>python test.py
 
 # I can't run >>python main.py
-Main.py embeds both 0/1 prediction and nan/valid prediction. It is set to 0/1 prediction as default.
+main.py embeds both 0/1 prediction and nan/valid prediction. It is set to 0/1 prediction as default.
 
 If run 0/1 prediction, please comment all modules labelled nan/valid prediction.
 
