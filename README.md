@@ -1,6 +1,8 @@
 # Project description
 Classify the rat's lever-press state (press/rest/nan) from his neural firing information (spike).
 
+The project report can be accessed via https://drive.google.com/file/d/1WIyGmkCuFEEgvaAq0ArTGvbKdw7pAfH7/view?usp=sharing
+
 # How to run my code?
 Make sure the following packages are installed in the environment:
 
