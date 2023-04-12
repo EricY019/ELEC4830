@@ -20,9 +20,9 @@ tqdm
 
 mat4py
 
-Training, please type in >>python main.py
+Training command ```>>python main.py```
 
-Testing, please type in >>python test.py
+Testing command ```>>python test.py```
 
 # I can't run >>python main.py
 main.py embeds both 0/1 prediction and nan/valid prediction. It is set to 0/1 prediction as default.
